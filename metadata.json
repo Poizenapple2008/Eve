@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Eva - Women's Health Friend",
+  "description": "A private, AI-powered companion for women's and teen health. Local data, no tracking, scientifically accurate information.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
